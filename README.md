@@ -1,4 +1,6 @@
-🎵 AI Mood-Based Playlist Generator
+### 🎵 AI Mood-Based Playlist Generator
+
+MIC CLUB DEVELOPMENT - PRODHOSH V.S
 An intelligent web application that uses Gemini AI to interpret natural language mood descriptions and generates personalized playlists through the Spotify Web API. The system provides a seamless music discovery experience by understanding user emotions and creating perfectly curated playlists.
 
 🌟 Features
